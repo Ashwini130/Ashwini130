@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashwini Patil
 - 👀 I’m interested in Big Data Analytics and Engineering
-- 🌱 I’m currently learning Big Data Ecosystem and working on projects to build up my knowledge on the same. I am also working as a Software Consultant in an IT service company.
+- 🌱 I’m currently learning Big Data Ecosystem and working on projects to build up my knowledge on the same. I am also working as a Software Consultant in an IT services company.
 - 📫 You can reach me at ashwini130297@gmail.com 
 
 <!---
